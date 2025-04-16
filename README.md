@@ -1,10 +1,12 @@
-# Kevin Sebastian
+# Kevin Sebastian 
 
-### 💡 Developer | CSE Undergrad | GATE 2025 Qualified  
+[View My Resume](https://github.com/KVN-SBN/Kevin-Sebastian/blob/main/KEVIN%20SEBASTIAN.pdf)
+
+
+### 💡 CSE Undergrad | GATE 2025 Qualified  
 > Self-taught creative and problem solver, extremely enthusiastic about tech and innovation.
-> Passionate about crafting sleek web apps, solving real-world problems, and building meaningful digital experiences.
 
----
+> Passionate about crafting sleek web apps, solving real-world problems, and building meaningful digital experiences.
 
 ### 🚀 About Me
 - 🎓 B.Tech in Computer Science, Government Engineering College Wayanad (2021–2025)
@@ -39,8 +41,20 @@
 
 ---
 
+### 🌱 Currently Learning
+- Bootstrap
+- Express.js
+- NodeJS
+- WordPress
+- Netlify
+- MongoDB
+
+---
+
+
 ### 📬 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsebastian-739786349/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kvn_sbn/)
 
 ---
+
